@@ -1,5 +1,5 @@
 <?php 
-echo `test2<pre>`;
+echo `<pre>`;
 print_r($_SERVER);
 
 ?>
